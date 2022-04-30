@@ -38,23 +38,27 @@ Windows uses a "priority" system as for "Which apps should get the most allowanc
   [Download Rufus](https://github.com/pbatard/rufus/releases/download/v3.18/rufus-3.18.exe) and run it as Administrator (Right click the downloaded file and select "Run as administrator" from the menu)"
   
   When you are prompted:
+  
   ![image](https://user-images.githubusercontent.com/100283589/166098060-6e5d232e-5cc3-485a-96a3-dd5dd59fe49b.png)
+  
   Click on "Yes"
   
   Minimize Rufus and get the ISO file. You can find the ISO from the release folder, copy the link of the latest release and go to that url in a new tab
   
   After your ISO has been downloaded, go to Rufus again. Plug in your USB Stick and make sure there isn't any data on it as the data will be erased. With that minor warning out of the way, your Rufus window will look like this:
   
-![image](https://user-images.githubusercontent.com/100283589/166099526-9b17bdec-2b97-46dc-8ad5-31c35ec87cf8.png)
+  ![image](https://user-images.githubusercontent.com/100283589/166099526-9b17bdec-2b97-46dc-8ad5-31c35ec87cf8.png)
 
   You'll see a dropdown below "Device". Click on the menu and select your USB.
   ##### IMPORTANT!!! MAKE SURE THE USB YOU SELECT IS THE RIGHT ONE, DOUBLE CHECK TO MAKE SURE YOU DON'T ACCIDENTALLY ERASE DATA FROM OTHER DRIVES !!!
+  
   ![image](https://user-images.githubusercontent.com/100283589/166099677-10429bf8-7ca5-4070-8565-2da73bc82432.png)
 
 
   
   After selecting the device, check "Boot Selection",
   it will look like this:
+  
   ![image](https://user-images.githubusercontent.com/100283589/166099736-5ac99604-993c-4a66-9590-d8236e7c275a.png)
   
   Here, Click on "SELECT" and navigate to where you kept the previously downloaded ISO file, and select it and click on "Open"
