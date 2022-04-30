@@ -7,10 +7,10 @@ A modification of the Windows 11 operating system. Lightweight and bloatware rem
 
 ### • Features
 #### -Lightweight
-      Mostly all of the bloatware from Windows is removed and telemetry has been removed too. Some features are still in beta and may break so it's not recommended to use them.
-      Updates are set to security only, so your device won't say "uPdATe aVAlIbLe, dOwnLoad nOw!1!1!!1" every 2 days
-      Some apps like Calculator, Photos, MS Store, Paint, Notepad are still included.
-      If you'd like to remove them, then there's a file for that too, you can download it from GitHub (Scripts folder)
+Mostly all of the bloatware from Windows is removed and telemetry has been removed too. Some features are still in beta and may break so it's not recommended to use them.
+  Updates are set to security only, so your device won't say "uPdATe aVAlIbLe, dOwnLoad nOw!1!1!!1" every 2 days
+  Some apps like Calculator, Photos, MS Store, Paint, Notepad are still included.
+  If you'd like to remove them, then there's a file for that too, you can download it from GitHub (Scripts folder)
 
 
 WORK IN PROGRESS!!
