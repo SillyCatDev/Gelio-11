@@ -1,6 +1,7 @@
 # Aurora 11 Lite
 A modification of the Windows 11 operating system. Lightweight and bloatware removed.
 Download: https://tinyurl.com/3u8ynf4m
+Instructions: https://github.com/SillyCatDev/Aurora-11-Lite/blob/main/Instructions.md
 
 ## DISCLAIMER: I am not responsible if your system is bricked or breaks after installing this modification. Please check the contents of iso file using 7-Zip or go to the "ISO Files" folder in the github repos. Performance may vary on diffrent hardware.
 
