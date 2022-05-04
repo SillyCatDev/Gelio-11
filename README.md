@@ -29,10 +29,9 @@ Windows uses a "priority" system as for "Which apps should get the most allowanc
 ##### You will have to build the .iso file from source, if that sounds complicated, don't worry, really isn't. Just follow the steps :)
 
   Prerequisites:
-  - A 8 GB or more USB
+  - A 8 GB or more USB Stick / Flash Drive
   - Rufus
-  - Windows 11 (or 10) ISO file
-  - GImageX
+  - The ISO file (download from here: 
 
   Steps:
   [Download Rufus](https://github.com/pbatard/rufus/releases/download/v3.18/rufus-3.18.exe) and run it as Administrator (Right click the downloaded file and select "Run as administrator" from the menu)"
@@ -42,10 +41,7 @@ Windows uses a "priority" system as for "Which apps should get the most allowanc
   ![image](https://user-images.githubusercontent.com/100283589/166098060-6e5d232e-5cc3-485a-96a3-dd5dd59fe49b.png)
   
   Click on "Yes"
-  
-  Minimize Rufus and get the ISO file. You can find the ISO from the release folder, copy the link of the latest release and go to that url in a new tab
-  
-  After your ISO has been downloaded, go to Rufus again. Plug in your USB Stick and make sure there isn't any data on it as the data will be erased. With that minor warning out of the way, your Rufus window will look like this:
+  Plug in your USB Stick and make sure there isn't any data on it as the data will be erased. With that minor warning out of the way, your Rufus window will look like this:
   
   ![image](https://user-images.githubusercontent.com/100283589/166099526-9b17bdec-2b97-46dc-8ad5-31c35ec87cf8.png)
 
