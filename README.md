@@ -1,4 +1,7 @@
 # Aurora 11 Lite
+
+Update: New build is coming up. Project will be renamed to "Gelio 11".
+
 A modification of the Windows 11 operating system. Lightweight and bloatware removed.
 
 Download: https://tinyurl.com/3u8ynf4m
