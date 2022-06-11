@@ -14,6 +14,6 @@ Pause
 Start-Sleep -s 30
 "Executing O&O ShutUp: Configure the settings yourself in the window that will pop-up."
 ./OOSU10.exe
-"Done!"
+'Done! Type %temp% in search and select all files and delete them. If you are prompted for admin privilages, press "Continue" '
 "To exit:"
 Pause
