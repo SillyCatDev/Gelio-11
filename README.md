@@ -23,6 +23,6 @@ If you'd like to remove them, then there's a file for that too, you can get the 
 #### -Gaming and performance improvements (May not improve on all hardware)
 Windows uses a "priority" system as for "Which apps should get the most allowance of systme resources", by default all proccesses (except system ones) will have the "Default" Priority. The "Priority System" is modified to set any game or editing software processes' priority to "Above normal", you can do this through the task manager, this is automated here. Increase in FPS may also be noticeable, video memory is pre-allocated to allow applications to use it directly, which can improve FPS.
 
-#### -Script to fix Windows 11 Explorer: uses Valinet's [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher/), and get that control back over your privacy uses [O&O ShutUp 10++](https://www.oo-software.com/en/shutup10.)
+#### -Script to fix Windows 11 Explorer (uses Valinet's [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher/)), and get that control back over your privacy (uses [O&O ShutUp 10++](https://www.oo-software.com/en/shutup10.))
 
 Find the script [here](https://github.com/SillyCatDev/Gelio-11/blob/main/Tweaks/Loq_Tweaks.ps1)
