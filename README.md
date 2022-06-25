@@ -1,5 +1,5 @@
 # Gelio 11
-##### If you want just the scripts to debloat your current Windows install, look [here]()
+##### If you want just the scripts to debloat your current Windows install, look [here](https://github.com/SillyCatDev/Minik-Script)
 A modification of the Windows 11 operating system. Lightweight and bloatware removed.
 
 Download: https://tinyurl.com/3u8ynf4m
